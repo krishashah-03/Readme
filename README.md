@@ -1,6 +1,6 @@
 # Readme
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1 align="center">Hi 👋, I'm Dhruvi shah</h1>
+<h1 align="center">Hi 👋, I'm Krisha shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Online attendance system via OTP**
+- 🔭 I’m currently working on **My WallMart Project**
 
-- 🌱 I’m currently learning **Java, MERN stack, Data analysis**
+- 🌱 I’m currently learning **ExpressJs,NodeJs,ML**
 
 - 👨‍💻 My portfolio [https://807a64b7-8782-4d09-97db-e24a0f657aff-00-2f6i507q8ajbl.sisko.replit.dev/](https://807a64b7-8782-4d09-97db-e24a0f657aff-00-2f6i507q8ajbl.sisko.replit.dev/)
 
-- 📫 How to reach me **dhruvishah116122@gmail.com**
+- 📫 How to reach me **krisha23579@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10balWZHIckISQwrHuy5p-oBKh3o1JPI4/view?usp=drivesdk](https://drive.google.com/file/d/10balWZHIckISQwrHuy5p-oBKh3o1JPI4/view?usp=drivesdk)
 
